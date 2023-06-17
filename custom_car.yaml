@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/autonomus v/final/dataset/images/train
+val: /content/drive/MyDrive/autonomus v/final/dataset/images/val
+
+is_coco: False
+nc: 1
+names: ['car']
